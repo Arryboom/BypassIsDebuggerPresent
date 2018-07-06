@@ -14,11 +14,13 @@ MD5: 89364B638CC99D2616C07D3AF7F46C09
 SHA1: C688D459783ADCE2321322DEFEBBC2512A7F4A0D  
 CRC32: 0E6DDBC3  
 
-- Check compiled dll from [Here](https://github.com/Arryboom/BypassIsDebuggerPresent/releases/download/1.0/ISD.dll "DLL").  
+- Check compiled dll from [Here](https://github.com/Arryboom/BypassIsDebuggerPresent/releases/download/Init/IsdebuggerPresent.zip "DLL").  
 ### Usage  
 #### Simple Inject the dll to target process,here is a sample using Cheatengine to inject:
 # IsDebuggerPreset_TEST.exe in this repo was for testing purpose.  
 - 1   
-  ![First Step](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/1.png)
+  ![1](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/1.png)
 - 2  select the ISD.dll and inject
-  ![Over](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/2.png)
+  ![2](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/2.png)
+- 3 check
+  ![3](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/3.png)

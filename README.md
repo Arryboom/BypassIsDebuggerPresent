@@ -16,11 +16,11 @@ CRC32: 0E6DDBC3
 
 - Check compiled dll from [Here](https://github.com/Arryboom/BypassIsDebuggerPresent/releases/download/Init/IsdebuggerPresent.zip "DLL").  
 ### Usage  
-#### Simple Inject the dll to target process,here is a sample using Cheatengine to inject:
+#### Simple Inject the dll to target process,here is a sample using Cheatengine to inject:  
 # IsDebuggerPreset_TEST.exe in this repo was for testing purpose.  
 - 1   
   ![1](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/1.png)
 - 2  select the ISD.dll and inject
-  ![2](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/2.png)
-- 3 check
+  ![2](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/2.png)  
+- 3 check  
   ![3](https://github.com/Arryboom/BypassIsDebuggerPresent/blob/master/Readme/3.png)
